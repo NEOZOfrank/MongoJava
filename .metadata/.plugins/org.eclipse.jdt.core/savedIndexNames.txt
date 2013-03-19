@@ -1,0 +1,6 @@
+INDEX VERSION 1.126+D:\Programmierung\MongoDB\workspace\.metadata\.plugins\org.eclipse.jdt.core
+1447370943.index
+173575256.index
+3812305261.index
+2486966779.index
+4232898612.index
